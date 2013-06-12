@@ -1,0 +1,4 @@
+https://github.com/jedi4ever/hetzner-cli.git
+https://github.com/mrkamel/heartbeat.git
+https://github.com/rmoriz/hetzner-bootstrap.git
+https://github.com/sashich/hetzner-setup.git

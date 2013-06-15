@@ -41,6 +41,7 @@
   - https://supportbee.com/devblog/2012/06/04/building-a-dependable-hosting-stack-using-hetzners-servers/
   - http://blog.beatunes.com/2011/07/goodbye-amazon-ec2-see-you-later-cloud.html
   - http://habrahabr.ru/post/137004/
+
 <!-- PROJECTS_LIST_START -->
     jedi4ever/hetzner-cli:
       CLI to do more complicated Hetnzer tasks like re-installing a server and putting the keys on it

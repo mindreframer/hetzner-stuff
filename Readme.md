@@ -41,3 +41,20 @@
   - https://supportbee.com/devblog/2012/06/04/building-a-dependable-hosting-stack-using-hetzners-servers/
   - http://blog.beatunes.com/2011/07/goodbye-amazon-ec2-see-you-later-cloud.html
   - http://habrahabr.ru/post/137004/
+<!-- PROJECTS_LIST_START -->
+    jedi4ever/hetzner-cli:
+      CLI to do more complicated Hetnzer tasks like re-installing a server and putting the keys on it
+       9 commits, 6 stars, 1 forks
+
+    mrkamel/heartbeat:
+      Use Heartbeat to monitor your Hetzner Failover IP and automatically switch to another server.
+       36 commits, 5 stars, 4 forks
+
+    rmoriz/hetzner-bootstrap:
+      Interface to hetzner.de's installimage/bootstrapping service
+       37 commits, 21 stars, 3 forks
+
+    sashich/hetzner-setup:
+      Инструкция по настройке проекта на сервере Hetzner
+       1 commit, 1 stars, 2 forks
+<!-- PROJECTS_LIST_END -->

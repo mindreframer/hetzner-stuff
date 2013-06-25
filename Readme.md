@@ -45,11 +45,11 @@
 <!-- PROJECTS_LIST_START -->
     jedi4ever/hetzner-cli:
       CLI to do more complicated Hetnzer tasks like re-installing a server and putting the keys on it
-       9 commits, 6 stars, 1 forks
+       9 commits, 7 stars, 1 forks
 
     mrkamel/heartbeat:
       Use Heartbeat to monitor your Hetzner Failover IP and automatically switch to another server.
-       36 commits, 5 stars, 4 forks
+       37 commits, 5 stars, 4 forks
 
     rmoriz/hetzner-bootstrap:
       Interface to hetzner.de's installimage/bootstrapping service
@@ -57,5 +57,5 @@
 
     sashich/hetzner-setup:
       Инструкция по настройке проекта на сервере Hetzner
-       1 commit, 1 stars, 2 forks
+       1 commit, 1 stars, 3 forks
 <!-- PROJECTS_LIST_END -->

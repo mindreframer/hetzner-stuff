@@ -57,5 +57,5 @@
 
     sashich/hetzner-setup:
       Инструкция по настройке проекта на сервере Hetzner
-       1 commit, 1 stars, 3 forks
+       1 commits, 1 stars, 3 forks
 <!-- PROJECTS_LIST_END -->

@@ -37,6 +37,15 @@
 
 
 
+## Networking on Hetzner
+  - [Virtual Setup at Hetzner.de - How we composed our KVM/VMware setup at Hetzner.de](http://www.compa.nl/hetznervmware/)
+  - [How to Set Up Networking With VMs on a Hetzner Server Running Ubuntu and KVM](http://www.lukaszielinski.de/blog/posts/2012/07/03/hetzner-server-vm-network-config/)
+  - [Hetzner LXC Linux Subnet Configuration](http://www.jotschi.de/Technik/2012/04/17/hetzner-lxc-linux-subnet-configuration.html)
+  - http://www.alangilby.com/post/19397363460/hetzner-dedicated-server-and-kvm-setup
+  - [Hetzner EQ4 Xen Server Routing Problem with own subnet](http://www.spamcollect.com/archives/101)
+
+
+
 ## Cloud on Hetzner:
   - https://supportbee.com/devblog/2012/06/04/building-a-dependable-hosting-stack-using-hetzners-servers/
   - http://blog.beatunes.com/2011/07/goodbye-amazon-ec2-see-you-later-cloud.html

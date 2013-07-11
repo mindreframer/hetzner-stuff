@@ -43,10 +43,14 @@
   - [Hetzner LXC Linux Subnet Configuration](http://www.jotschi.de/Technik/2012/04/17/hetzner-lxc-linux-subnet-configuration.html)
   - http://www.alangilby.com/post/19397363460/hetzner-dedicated-server-and-kvm-setup
   - [Hetzner EQ4 Xen Server Routing Problem with own subnet](http://www.spamcollect.com/archives/101)
+  - [Create a mixed (routed & bridged) private VLAN for Xen Virtual Machines, 15 Jun 11](http://tipstricks.itmatrix.eu/?p=681)
+  - [KVM Virtualisierung auf Hetzner Server](http://www.mhampicke.de/artikel/view/2)
+
 
 
 
 ## Cloud on Hetzner:
+  - http://binarymentalist.com/post/1316581507/der-virtuelle-cloud-war-gestern
   - https://supportbee.com/devblog/2012/06/04/building-a-dependable-hosting-stack-using-hetzners-servers/
   - http://blog.beatunes.com/2011/07/goodbye-amazon-ec2-see-you-later-cloud.html
   - http://habrahabr.ru/post/137004/

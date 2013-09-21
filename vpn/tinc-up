@@ -1,0 +1,7 @@
+#!/bin/bash
+modprobe tun
+tincpath=/etc/tinc/vpn
+hname=`grep -iP "^name" ${tincpath}/tinc.conf | sed 's/.*=\s*//'`
+addr=`grep -iP "subnet" ${tincpath}/hosts/$hname | sed 's/.*=\s*//'`
+ifconfig $INTERFACE $addr netmask 255.255.255.0
+

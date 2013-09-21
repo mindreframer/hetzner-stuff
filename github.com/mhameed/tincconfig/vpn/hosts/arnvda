@@ -1,0 +1,11 @@
+subnet = 10.1.1.6
+tcponly = yes
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEA0xuz2eZipO/6WwnFQ+m8KV538yJve5+hrdeu+5TY2Gz3UHCQIDjy
+3VgwlJ2pgkRchDBeDMmJsV/dZNmg5zVkpr34CD5HquL3utLEEdET9zkMPHhxQXP6
+5TQmN8ea0v1mIe/6/PA0rvDXH2dQkj7kz3C/vntrofgglbJxxONRX5DAa7XcxBXo
+9ub3lqD595pzCsa6h+X8X2aJNkp9xISyZo4wrb1fr14qF+OUocso4oy7Pk0iY2yg
+USd/xopcOVGDrcaPQIt/v7XxVYDMysT+B6ByJYipcGLbL4G9FyrkmWg1vXvyGZOh
+OeI85VkAVRVoqRR/esnUX5vuyil/u27zTQIDAQAB
+-----END RSA PUBLIC KEY-----

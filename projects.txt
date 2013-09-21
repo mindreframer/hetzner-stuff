@@ -8,3 +8,4 @@ https://github.com/Myatu/puppet-l2mesh.git
 https://github.com/rmoriz/hetzner-bootstrap.git
 https://github.com/sashich/hetzner-setup.git
 https://github.com/Youscribe/tinc-cookbook.git
+https://github.com/mhameed/tincconfig.git

@@ -78,6 +78,10 @@
       Retiolum tinc script repository
        14 commits, last change: 2011-05-10 04:42:22, 1 stars, 0 forks
 
+    mhameed/tincconfig:
+      configuration files for tinc
+       12 commits, last change: 2013-06-27 06:08:29, 1 stars, 0 forks
+
     mrkamel/heartbeat:
       Use Heartbeat to monitor your Hetzner Failover IP and automatically switch to another server.
        38 commits, last change: 2013-07-01 01:27:04, 5 stars, 4 forks

@@ -19,11 +19,18 @@ VPN Mesh:
 VPN Solutions:
   - http://www.tinc-vpn.org
   - http://www.neorouter.com/
+  - http://vtun.sourceforge.net/features.html
   - http://openvpn.net/index.php/access-server/overview.html
   - http://ipsec-tools.sourceforge.net/
 
   - http://software.schmorp.de/pkg/gvpe.html
   - http://habrahabr.ru/post/150151/ (List of Projects)
+
+  (http://www.youtube.com/watch?feature=player_detailpage&v=R7P_vvz1AP8#t=178)
+  - cloudVPN
+  - socialVPN
+  - n2n
+  - VDE
 
 
 Tunneling:
@@ -33,3 +40,4 @@ Tunneling:
 
 !!! https://github.com/Myatu/puppet-l2mesh
 - https://github.com/Myatu/puppet-l2mesh/blob/master/manifests/init.pp
+

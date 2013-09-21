@@ -1,0 +1,14 @@
+Compression=9
+Address=paula.kbu.freifunk.net
+Subnet=172.27.255.1/32 #Paula
+Subnet=172.27.255.2/32 #www
+
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAzW2kJKzp7aSIwOeOAIPTAcmucvifQx3ZGD6Vj4Z1vzSI+GCEk5R3
+CtrZHM2ukCZVA9NBcYMOOXdwka8VldFVFcMB0q44Ik1OnqibVnWqUpezWTNgk2C9
+OlB6zcY4b6UuUN/UjKoYx5u4jk44n8CrGZtMlx0x6iUUNSOkjwWiP7Mi1KLeIvcr
+JekUbYNaY5ctv5A/Nd2pfcQpQSnHHbq1z6HPSeFc8eISe6NmljaTgFj3zy5nZsUd
+ab6sKdjpyTAntHwG+YZKiP6U3XA4YdDoj+ODN3FHpLUjOfrw/Czb2tVDWsqU8QA0
+ykj1CCeKVbRaU7PbgQPmHWih2dUPXd4OKQIDAQAB
+-----END RSA PUBLIC KEY-----

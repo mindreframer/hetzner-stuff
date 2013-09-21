@@ -1,0 +1,13 @@
+Subnet=172.27.255.3/32 #Paul selbst
+Subnet=0.0.0.0/0
+Compression=9
+Address=paul.kbu.freifunk.net
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEA8yWSDKn0i8oRca5GOasa/02xeJg0Rb7DXPFEbygpShu8quoWBpOB
+d4f+Sc3fuDrZUEEvQBmAQ5PNAby0VsiAmlGpD+UCONxp/DYC2iMDEgtz1hUtEHG7
+aOChVZ97HFyaSuH6T3o0/MNRDHyJWGCO95uvjiJKOizAtCz0uFLhN7/2Vl2Z+Da0
+OIEvNCFq4crml00DuRKnoUlNxxA9DZrOGwG07ef+5cGpu+G5D05TltnC9q3+s5Qm
+1uFcU29OMg0HC8lCtg+RrQybHsbltsfkS1pFEsA/FsqSXN/UqLf4HQAt5yhdxLyr
+7aGcY3bDcP8LVOSMnB3nC9vZp4t7VGJosQIDAQAB
+-----END RSA PUBLIC KEY-----

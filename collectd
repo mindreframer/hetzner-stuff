@@ -1,0 +1,13 @@
+Subnet=172.27.255.6
+Address=collectd.kbu.freifunk.net
+Compression=9
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEA4ucPczCFsFBLgk/sQ2LgmOXLJWMLW0X5tzI5+tj/NN0x27RwJ+04
+kyLqsYPE5mRuSBAQMOgAqwwCE/3djQNENh5XKS9WIJKjEpShYMjiIiSq6bA3TaH9
+njlGC9jb5HskbgXyu51sMyXEYacRBRplcxZ+p02Fws5YVUgnTSAAzc1SQGFtguhk
+1HBd/p4o/3acPJZ3SbrHPtXshjcfjk8UO3txgtgmSvAjjCJSp/fxpOkHj++lZOLf
+uwigujW+XZq3C3wE9yWPlrtuugkIwyxRm5/XAjXKpEsKqTbhajiOwXDi0f/gLFqK
+oOo85rdq1q1TZ/u6kTOS8t2pDfLpVyOl0QIDAQAB
+-----END RSA PUBLIC KEY-----
+

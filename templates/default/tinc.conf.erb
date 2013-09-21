@@ -1,0 +1,17 @@
+<% @hosts_ConnectTo.sort.each do |host| -%>
+ConnectTo = <%= host %>
+<% end -%>
+
+Device = <%= @device %>
+
+<% if @external_ipaddress -%>
+BindToAddress = <%= @external_ipaddress %>
+<% elsif %>
+BindToInterface = <%= @bind_to %>
+<% end -%>
+
+Interface = <%= @interface %>
+
+Mode = <%= @mode %>
+
+Name = <%= @name %>

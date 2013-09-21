@@ -1,4 +1,4 @@
-Some networking tips when hosting on Hetzner:
+## Some networking tips when hosting on Hetzner:
 
   - [Zwei-Node HA-Cluster bei Hetzner, 27.08.2013](http://www.mynakedgirlfriend.de/zwei-node-ha-cluster-bei-hetzner/)
   - http://www.jansipke.nl/using-xenserver-in-a-routed-ip-network/
@@ -12,11 +12,11 @@ Some networking tips when hosting on Hetzner:
   - Ganeti on Hetzner: https://groups.google.com/forum/#!topic/ganeti/7qM9O6Q1-RM
 
 
-VPN Mesh:
+### VPN Mesh:
   - vpmn.googlecode.com/files/scg08_vpmn_r1.pdf‎
 
 
-VPN Solutions:
+### VPN Solutions:
   - http://www.tinc-vpn.org
   - http://www.neorouter.com/
   - http://vtun.sourceforge.net/features.html
@@ -33,11 +33,5 @@ VPN Solutions:
   - VDE
 
 
-Tunneling:
+## Tunneling:
   - http://pagekite.net/
-
-
-
-!!! https://github.com/Myatu/puppet-l2mesh
-- https://github.com/Myatu/puppet-l2mesh/blob/master/manifests/init.pp
-

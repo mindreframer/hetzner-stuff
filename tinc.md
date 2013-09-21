@@ -36,6 +36,7 @@ make install
   - https://github.com/ryd/chaosvpn
   - https://github.com/gsliepen/tinc
   - https://github.com/Youscribe/tinc-cookbook
+  - https://github.com/Myatu/puppet-l2mesh/
   - https://github.com/makefu/shack-retiolum
 
 

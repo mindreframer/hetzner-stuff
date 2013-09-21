@@ -1,0 +1,17 @@
+Address = <%= @ipaddress %>
+
+Cipher = <%= @cipher %>
+
+Digest = <%= @digest %>
+
+Compression = <%= @compression %>
+
+<% @subnets.each do |subnet| -%>
+Subnet = <%= subnet %>
+<% end -%>
+
+<% if @tcponly -%>
+TCPOnly = yes
+<% end -%>
+
+<%= @public_key %>

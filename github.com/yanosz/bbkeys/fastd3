@@ -1,0 +1,13 @@
+Subnet=172.27.255.9/32
+#Subnet=172.27.0.0/16 # Not to be used - packet loss
+
+#Subnet=172.27.8.0/21 # Not to be used - packet loss
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAwxKV1I1kcwP0pbpKIPXbv87KM9vyoiavUs/2aKCzO4GrC4R1D93+
+rZ1Vw3PQ7OHaJ4Al/3IaInym9YdnM0ePduCV8MLiiHtyAqJNpOL6uBmzA6hgwDWe
+jaa2uaaDcejo11JXGi4rqKgzqSucxF/G/8+l6kkbAbzP09qKHGbi8TAelWKSnHjT
+H5+O+5YDXghxVKAvNELDNIek3FjH/WU215AkCsb5QylSJeeXpCl/g/OapgxO6oLN
+nAGYAVDcJpCGVt5GWQNWrMLYkB3VMQAoIFgSqVpfVbYk/u/LkwPtl0AWx0l8S10d
+7SKN/O2b4S0AujxIDtgsGubFCz0XrU6JMQIDAQAB
+-----END RSA PUBLIC KEY-----

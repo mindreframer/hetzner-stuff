@@ -1,0 +1,12 @@
+Subnet=172.27.255.8/32
+Address=backup.kbu.freifunk.net
+Compression=9
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAykFSGNAXqwmc9VCqHn/QbsC/kfE7vs+crPK/UoapVH/IWHpGXITc
+/f0zXh3+0JCyWNE/DzzE6h6ayEmWZ4pKAQxle6TfZa1fkDwU5snxImyUMsM6FrtN
+GT8X5OGVQ8HCvd1s2uzgk8RDLppAQcGu51+74OFqUBrc566WXtfqtZpwO7QosAPz
+dW8TYQVU+g97ICvtwGbaSFDJh9C1FW+fpdRzKpvp6a9s8Ma5OBX1NymZf1Mh4htM
+IUVhu65lKuTV2K/2Z3vI+lxAha7tg24+nEw4zeAtdphuLKhN94mvzeeitQj9d9qF
+xv3KZIp3XPkriSyjJw7REk/KADQ6O379TwIDAQAB
+-----END RSA PUBLIC KEY-----

@@ -1,0 +1,5 @@
+fixtures:
+  repositories:
+    "concat": "git://github.com/ripienaar/puppet-concat.git spec/fixtures/modules/concat ; cd spec/fixtures/modules/concat ; git checkout 00259779effdd210b7ad7b3e35551ddadd37116e "
+  symlinks:
+    "l2mesh": "#{source_dir}"

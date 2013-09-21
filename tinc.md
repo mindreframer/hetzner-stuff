@@ -37,7 +37,12 @@ make install
   - https://github.com/gsliepen/tinc
   - https://github.com/Youscribe/tinc-cookbook
   - https://github.com/Myatu/puppet-l2mesh/
+  - https://github.com/duritong/puppet-tinc
   - https://github.com/makefu/shack-retiolum
+  - https://github.com/jvasile/tinc-rollout
+  - https://github.com/fourscouts/chef-tinc
+  - https://github.com/example42/puppet-tinc
+  - https://github.com/Gorian/tinc-automation
 
 
 ## Papers
@@ -54,6 +59,7 @@ make install
 
 ## Emails
   - http://www.tinc-vpn.org/pipermail/tinc/
+  - http://6.network-tinc-user.networktalks.us/
 
 ### Alternative/Additions Software
   - PWnat

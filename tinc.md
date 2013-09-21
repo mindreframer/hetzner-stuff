@@ -44,6 +44,7 @@ make install
   - https://github.com/example42/puppet-tinc
   - https://github.com/Gorian/tinc-automation
   - https://github.com/mhameed/tincconfig
+  - https://github.com/yanosz/bbkeys
 
 
 ## Papers

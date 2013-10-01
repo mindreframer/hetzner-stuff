@@ -19,6 +19,7 @@
 ### VPN Solutions:
   - http://www.tinc-vpn.org
   - http://www.neorouter.com/
+  - http://www.freelan.org/page/faq
   - http://vtun.sourceforge.net/features.html
   - http://openvpn.net/index.php/access-server/overview.html
   - http://ipsec-tools.sourceforge.net/

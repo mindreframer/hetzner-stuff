@@ -54,6 +54,7 @@ make install
   - [Building VPNs in EC2](http://tinc-vpn.org/presentations/fosdem-2011/ec2_vpn_fosdem2011.pdf)
   - http://tinc-vpn.org/presentations/
   - https://archive.fosdem.org/2011/schedule/event/ec2_vpn
+  - [Chaosvpn - a vpn to connect hackers](https://program.ohm2013.org/event/223.html)
 
 
 ## Patches:

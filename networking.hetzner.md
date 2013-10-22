@@ -1,5 +1,5 @@
 ## Some networking tips when hosting on Hetzner:
-
+  - [Bringing Alive Lxc on a Hetzner Server, 2013.09](http://bitterpeace.net/bringing-alive-lxc-on-a-hetzner-server/)
   - [Zwei-Node HA-Cluster bei Hetzner, 27.08.2013](http://www.mynakedgirlfriend.de/zwei-node-ha-cluster-bei-hetzner/)
   - http://www.jansipke.nl/using-xenserver-in-a-routed-ip-network/
   - http://wiki.hetzner.de/index.php/KVM_mit_Nutzung_aller_IPs_-_the_easy_way --> !!

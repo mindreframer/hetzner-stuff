@@ -11,28 +11,17 @@
 
   - Ganeti on Hetzner: https://groups.google.com/forum/#!topic/ganeti/7qM9O6Q1-RM
 
-
-### VPN Mesh:
-  - vpmn.googlecode.com/files/scg08_vpmn_r1.pdf‎
+http://www.bertera.it/index.php/2011/10/04/howto-configure-multiple-mac-address-over-a-single-ethernet-interface/
 
 
-### VPN Solutions:
-  - http://www.tinc-vpn.org
-  - http://www.neorouter.com/
-  - http://www.freelan.org/page/faq
-  - http://vtun.sourceforge.net/features.html
-  - http://openvpn.net/index.php/access-server/overview.html
-  - http://ipsec-tools.sourceforge.net/
 
-  - http://software.schmorp.de/pkg/gvpe.html
-  - http://habrahabr.ru/post/150151/ (List of Projects)
-
-  (http://www.youtube.com/watch?feature=player_detailpage&v=R7P_vvz1AP8#t=178)
-  - cloudVPN
-  - socialVPN
-  - n2n
-  - VDE
+http://tipstricks.itmatrix.eu/?p=462
+http://halvar.at/linux/ubuntu_precise_server_image_hetzner/
+http://antonlindstrom.com/2011/09/05/bridged-ipv6-network-on-hetzner-box.html
 
 
-## Tunneling:
-  - http://pagekite.net/
+- [Connect multiple server in a datacenter to SixXS, 2007](http://www.sixxs.net/forum/?msg=general-604676)
+- [Dynamically-Routed IPv6 VPN With Multiple Subnets, 2010](http://unquietwiki.com/ipv6/ipv6_vpn.html)
+- http://stormbp.blogspot.de/2012/10/tinc-mesh-vpn.html
+- http://www.pro-linux.de/artikel/2/1566/verschuesselte-ipv6-verbindung-zum-heim-netzwerk.html
+- http://blucoders.net/wiki/index.php/BluVPN

@@ -29,3 +29,6 @@ http://antonlindstrom.com/2011/09/05/bridged-ipv6-network-on-hetzner-box.html
 - http://stormbp.blogspot.de/2012/10/tinc-mesh-vpn.html
 - http://www.pro-linux.de/artikel/2/1566/verschuesselte-ipv6-verbindung-zum-heim-netzwerk.html
 - http://blucoders.net/wiki/index.php/BluVPN
+
+### IPv6
+  - http://www.stocksy.co.uk/articles/Networks/ipv6_for_xen_hosts_on_a_hetzner_leased_server_with_a_routed_ipv4_allocation/

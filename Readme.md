@@ -66,15 +66,15 @@
 
     gsliepen/tinc:
       a VPN daemon
-       1,649 commits, last change: 2013-10-19 08:35:20, 69 stars, 18 forks
+       1,674 commits, last change: , 95 stars, 24 forks
 
     jedi4ever/hetzner-cli:
       CLI to do more complicated Hetnzer tasks like re-installing a server and putting the keys on it
-       9 commits, last change: 2013-02-25 04:27:32, 7 stars, 1 forks
+       9 commits, last change: , 9 stars, 1 forks
 
     jvasile/tinc-rollout:
       This script sets up or updates a host to connect to a tinc vpn. It allows you to start a network from scratch, join an existing network, decide which peers you will connect with, and can package up your tinc configuration so others can join the network too. This is aimed at users who just want to make a bunch of boxes talk to each other. It won'…
-       22 commits, last change: , 0 stars, 1 forks
+       22 commits, last change: , 1 stars, 2 forks
 
     makefu/shack-retiolum:
       Retiolum tinc script repository
@@ -86,7 +86,7 @@
 
     mrkamel/heartbeat:
       Use Heartbeat to monitor your Hetzner Failover IP and automatically switch to another server.
-       38 commits, last change: 2013-07-01 01:27:04, 5 stars, 4 forks
+       50 commits, last change: , 14 stars, 7 forks
 
     Myatu/puppet-l2mesh:
       [Note: This is a fork from http://redmine.the.re/projects/l2mesh] - l2mesh is a tinc based virtual switch, implemented as a puppet module. It creates a new ethernet interface on the machine and connects it to the switch.
@@ -94,7 +94,7 @@
 
     rmoriz/hetzner-bootstrap:
       Interface to hetzner.de's installimage/bootstrapping service
-       37 commits, last change: 2013-04-10 06:37:02, 21 stars, 3 forks
+       37 commits, last change: , 25 stars, 6 forks
 
     sashich/hetzner-setup:
       Инструкция по настройке проекта на сервере Hetzner
@@ -106,5 +106,5 @@
 
     Youscribe/tinc-cookbook:
       Chef cookbook to manage/install a tinc cluster
-       20 commits, last change: 2013-07-18 04:01:59, 2 stars, 2 forks
+       20 commits, last change: , 2 stars, 2 forks
 <!-- PROJECTS_LIST_END -->
